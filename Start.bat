@@ -1,0 +1,3 @@
+@echo off
+echo Lancement du bot...
+npm start
